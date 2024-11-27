@@ -1,0 +1,31 @@
+.tag_product {
+    background-color: yellow;
+    color: red;
+    font-family: Impact
+    }
+
+
+
+.wrapper-card {
+color: green;
+font-size: 50px;
+}
+.wrapper-card {
+    color: yellow;
+}
+#unique_P2{
+    color: blueviolet;
+    background-color: rgb(255, 0, 187);
+    font-family: Arial, Helvetica, sans-serif bold;
+}
+li{
+    color: goldenrod !important;
+    background-color:  rgb(27, 223, 85) !important; 
+}
+p{
+    color: aquamarine;
+    background-color: brown;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
